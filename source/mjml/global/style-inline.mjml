@@ -36,8 +36,6 @@
 
   .body {
     min-width: 308px !important;
-    padding-right: 6px !important;
-    padding-left: 6px !important;
   }
 
   span,

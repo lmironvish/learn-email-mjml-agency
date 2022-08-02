@@ -26,7 +26,7 @@
   </mj-head>
 
   <mj-body css-class="body"
-            background-color="#ffffff">
+            background-color="#000000">
 
   <mj-wrapper mj-class="wrapper"
             css-class="wrapper">

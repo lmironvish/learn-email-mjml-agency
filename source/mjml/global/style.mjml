@@ -14,6 +14,10 @@
   background-color: #161614 !important;
   color: #f7e110 !important;
 }
+.views-advantages__btn > table > tbody > tr > td :hover{
+  background-color: #f7e110 !important;
+  color: #000000 !important;
+}
 
 /* media */
 
