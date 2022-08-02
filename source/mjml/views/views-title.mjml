@@ -4,13 +4,24 @@
   <mj-column mj-class="views-title__column"
             css-class="views-title__column">
 
-    <mj-image mj-class="views-title__img pt10 pb20 alt-img"
-              css-class="views-title__img pt10 pb20 alt-img"
+    <mj-image mj-class="views-title__logo pt10 pb20 alt-img"
+              css-class="views-title__logo pt10 pb20 alt-img"
 
-              src="{{{views-title__img.src}}}"
-              href="{{{views-title__img.href}}}"
-              title="{{{views-title__img.title}}}"
-              alt="{{{views-title__img.alt}}}" />
+              src="{{{views-title__logo.src}}}"
+              href="{{{views-title__logo.href}}}"
+              title="{{{views-title__logo.title}}}"
+              alt="{{{views-title__logo.alt}}}" />
+
+
+     <mj-navbar mj-class="views-title__navbar pt10 pb20"
+              css-class="views-title__navbar pt10 pb20">
+            <mj-navbar-link mj-class="views-title__navbar-links pt10 pb20"
+              css-class="views-title__navbar-links pt10 pb20">About</mj-navbar-link>
+            <mj-navbar-link mj-class="views-title__navbar-links pt10 pb20"
+              css-class="views-title__navbar-links pt10 pb20">Careers</mj-navbar-link>
+            <mj-navbar-link mj-class="views-title__navbar-links pt10 pb20"
+              css-class="views-title__navbar-links pt10 pb20">Contact</mj-navbar-link>
+        </mj-navbar>
 
   </mj-column>
 

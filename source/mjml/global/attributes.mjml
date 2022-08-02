@@ -82,6 +82,20 @@
 
   <!-- title -->
 
+  <mj-class name="views-title__logo"         width="64px"
+                                             align="left"/>
+
+  <mj-class name="views-title__navbar"       width="64px"
+                                             align="left"/>
+
+  <mj-class name="views-title__navbar-links" font-family="Lato, Tahoma, Veranda, sans-serif"
+                                             color="#ffffff"
+                                             font-size="12px"
+                                             font-weight="normal"
+                                             line-height="22px"/>
+
+
+
   <!-- header -->
 
   <!-- footer -->
