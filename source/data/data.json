@@ -14,6 +14,13 @@
     "alt": "logo"
   },
 
+  "views-header__img": {
+    "src": "https://i.postimg.cc/pdmqcxW7/img-agency-outsidebox.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",
