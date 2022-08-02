@@ -82,17 +82,33 @@
 
   <!-- title -->
 
-  <mj-class name="views-title__logo"         width="64px"
-                                             align="left"/>
+  <mj-class name="views-title"               vertical-align="middle"
+                                             background-color="#000000"
+                                             padding="10px 0px"/>
 
-  <mj-class name="views-title__navbar"       width="64px"
-                                             align="left"/>
+  <mj-class name="views-title__column"       width="50%"
+                                             vertical-align="middle"
+                                             padding="0px"/>
+
+  <mj-class name="views-title__logo"         width="64px"
+                                             align="left"
+                                             padding="13px 20px"/>
+
+  <mj-class name="views-title__navbar"       base url="https://github.com/lmironvish"
+                                             hamburger="hamburger"
+                                             padding="0px"
+                                             ico-padding="0px"
+                                             ico-font-size="18px"
+                                             ico-color="#ffffff"
+                                             align="right"/>
 
   <mj-class name="views-title__navbar-links" font-family="Lato, Tahoma, Veranda, sans-serif"
                                              color="#ffffff"
                                              font-size="12px"
                                              font-weight="normal"
-                                             line-height="22px"/>
+                                             line-height="22px"
+                                             align="right"
+                                             padding="10px 20px"/>
 
 
 
