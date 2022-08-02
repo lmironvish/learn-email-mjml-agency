@@ -1,0 +1,91 @@
+<mj-section mj-class="views-advantages"
+            css-class="views-advantages">
+
+  <mj-column mj-class="views-advantages__column"
+              css-class="views-advantages__column">
+
+    <mj-image mj-class="views-advantages__img alt-img"
+              css-class="views-advantages__img alt-img"
+
+              src="{{{views-advantages__img-first.src}}}"
+              href="{{{views-advantages__img-first.href}}}"
+              title="{{{views-advantages__img-first.title}}}"
+              alt="{{{views-advantages__img-first.alt}}}" />
+
+    <mj-text mj-class="views-advantages__caption"
+            css-class="views-advantages__caption">
+      <p>Innovative</p>
+    </mj-text>
+
+
+    <mj-text mj-class="views-advantages__text"
+            css-class="views-advantages__text">
+      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </mj-text>
+
+    <mj-button mj-class="views-advantages__btn"
+              css-class="views-advantages__btn"
+              href="#">
+              Read more
+    </mj-button>
+
+  </mj-column>
+
+  <mj-column mj-class="views-advantages__column"
+              css-class="views-advantages__column">
+
+    <mj-image mj-class="views-advantages__img alt-img"
+              css-class="views-advantages__img alt-img"
+
+              src="{{{views-advantages__img-second.src}}}"
+              href="{{{views-advantages__img-second.href}}}"
+              title="{{{views-advantages__img-second.title}}}"
+              alt="{{{views-advantages__img-second.alt}}}" />
+
+    <mj-text mj-class="views-advantages__caption"
+          css-class="views-advantages__caption">
+      <p>Creative</p>
+    </mj-text>
+
+    <mj-text mj-class="views-advantages__text"
+            css-class="views-advantages__text">
+      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </mj-text>
+
+    <mj-button mj-class="views-advantages__btn"
+              css-class="views-advantages__btn"
+              href="#">
+              Read more
+    </mj-button>
+
+  </mj-column>
+
+  <mj-column mj-class="views-advantages__column"
+              css-class="views-advantages__column">
+
+    <mj-image mj-class="views-advantages__img alt-img"
+              css-class="views-advantages__img alt-img"
+
+              src="{{{views-advantages__img-third.src}}}"
+              href="{{{views-advantages__img-third.href}}}"
+              title="{{{views-advantages__img-third.title}}}"
+              alt="{{{views-advantages__img-third.alt}}}" />
+
+    <mj-text mj-class="views-advantages__caption"
+             css-class="views-advantages__caption">
+      <p>Strategic</p>
+    </mj-text>
+
+    <mj-text mj-class="views-advantages__text"
+            css-class="views-advantages__text">
+      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </mj-text>
+
+    <mj-button mj-class="views-advantages__btn"
+              css-class="views-advantages__btn"
+              href="#">
+              Read more
+    </mj-button>
+  </mj-column>
+
+</mj-section>
