@@ -1,10 +1,85 @@
 <mj-section mj-class="views-competences"
             css-class="views-competences">
 
+<mj-group mj-class="views-competences__group"
+              css-class="views-competences__group">
+
   <mj-column mj-class="views-competences__column"
               css-class="views-competences__column">
 
+    <mj-image mj-class="views-competences__img alt-img"
+    css-class="views-competences__img alt-img"
+
+    src="{{{views-competences__img-web.src}}}"
+    href="{{{views-competences__img-web.href}}}"
+    title="{{{views-competences__img-web.title}}}"
+    alt="{{{views-competences__img-web.alt}}}" />
+
+    <mj-text mj-class="views-competences__caption"
+            css-class="views-competences__caption">
+      <span>Web</span>
+    </mj-text>
+
 
   </mj-column >
+  <mj-column mj-class="views-competences__column"
+              css-class="views-competences__column">
+
+              <mj-image mj-class="views-competences__img alt-img"
+              css-class="views-competences__img alt-img"
+
+              src="{{{views-competences__img-digital.src}}}"
+              href="{{{views-competences__img-digital.href}}}"
+              title="{{{views-competences__img-digital.title}}}"
+              alt="{{{views-competences__img-digital.alt}}}" />
+
+    <mj-text mj-class="views-competences__caption"
+            css-class="views-competences__caption">
+      <span>Digital</span>
+    </mj-text>
+
+
+
+  </mj-column >
+  <mj-column mj-class="views-competences__column"
+              css-class="views-competences__column">
+
+              <mj-image mj-class="views-competences__img alt-img"
+              css-class="views-competences__img alt-img"
+
+              src="{{{views-competences__img-print.src}}}"
+              href="{{{views-competences__img-print.href}}}"
+              title="{{{views-competences__img-print.title}}}"
+              alt="{{{views-competences__img-print.alt}}}" />
+
+    <mj-text mj-class="views-competences__caption"
+            css-class="views-competences__caption">
+      <span>Print</span>
+    </mj-text>
+
+
+
+  </mj-column >
+  <mj-column mj-class="views-competences__column"
+              css-class="views-competences__column">
+
+              <mj-image mj-class="views-competences__img alt-img"
+              css-class="views-competences__img alt-img"
+
+              src="{{{views-competences__img-social.src}}}"
+              href="{{{views-competences__img-social.href}}}"
+              title="{{{views-competences__img-social.title}}}"
+              alt="{{{views-competences__img-social.alt}}}" />
+
+    <mj-text mj-class="views-competences__caption"
+            css-class="views-competences__caption">
+      <span>Social</span>
+    </mj-text>
+
+
+
+  </mj-column >
+
+</mj-group>
 
 </mj-section>

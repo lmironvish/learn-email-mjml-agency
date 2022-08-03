@@ -39,6 +39,8 @@
 
       <mj-include path="views/views-process.mjml" />
 
+      <mj-include path="views/views-competences.mjml" />
+
   </mj-wrapper>
 
 
