@@ -1,0 +1,48 @@
+<mj-section mj-class="views-description"
+            css-class="views-description">
+
+    <mj-column mj-class="views-description__column-left"
+               css-class="views-description__column-left">
+        <mj-accordion mj-class="views-description__accord"
+                      css-class="views-description__accord">
+            <mj-accordion-element>
+            <mj-accordion-title>Happy Clients</mj-accordion-title>
+            <mj-accordion-text mj-class="views-description__accord-text"
+                               css-class="views-description__accord-text">
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </mj-accordion-text>
+          </mj-accordion-element>
+        </mj-accordion>
+
+    <mj-button mj-class="views-advantages__btn"
+              css-class="views-advantages__btn"
+              href="#">
+              Read more
+    </mj-button>
+
+    </mj-column>
+
+    <mj-column mj-class="views-description__column-right"
+               css-class="views-description__column-right">
+
+          <mj-accordion mj-class="views-description__accord"
+                        css-class="views-description__accord">
+
+            <mj-accordion-element>
+              <mj-accordion-title>Proven Results</mj-accordion-title>
+              <mj-accordion-text mj-class="views-description__accord-text"
+                                 css-class="views-description__accord-text">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              </mj-accordion-text>
+            </mj-accordion-element>
+          </mj-accordion>
+
+    <mj-button mj-class="views-advantages__btn"
+              css-class="views-advantages__btn"
+              href="#">
+              Read more
+    </mj-button>
+
+    </mj-column>
+
+</mj-section>

@@ -49,6 +49,8 @@
 
       <mj-include path="views/views-review.mjml" />
 
+      <mj-include path="views/views-description.mjml" />
+
   </mj-wrapper>
 
 
