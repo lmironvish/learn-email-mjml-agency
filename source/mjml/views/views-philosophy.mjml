@@ -1,6 +1,25 @@
 <mj-section mj-class="views-philosophy"
             css-class="views-philosophy">
 
+
+  <mj-column mj-class="views-philosophy__column"
+              css-class="views-philosophy__column">
+
+    <mj-text mj-class="views-philosophy__caption"
+             css-class="views-philosophy__caption">
+                  Our Philosophy
+    </mj-text>
+    <mj-text mj-class="views-philosophy__text"
+             css-class="views-philosophy__text">
+                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </mj-text>
+    <mj-text mj-class="views-philosophy__text"
+             css-class="views-philosophy__text">
+                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </mj-text>
+
+  </mj-column>
+
   <mj-column mj-class="views-philosophy__column"
               css-class="views-philosophy__column">
 
@@ -11,24 +30,6 @@
               href="{{{views-philosophy__img.href}}}"
               title="{{{views-philosophy__img.title}}}"
               alt="{{{views-philosophy__img.alt}}}" />
-
-  </mj-column>
-
-  <mj-column mj-class="views-philosophy__column"
-              css-class="views-philosophy__column">
-
-    <mj-text mj-class="views-philosophy__caption"
-             css-class="views-philosophy__caption">
-                  Our philosophy
-    </mj-text>
-    <mj-text mj-class="views-philosophy__text"
-             css-class="views-philosophy__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </mj-text>
-    <mj-text mj-class="views-philosophy__text"
-             css-class="views-philosophy__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </mj-text>
 
   </mj-column>
 

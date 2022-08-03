@@ -251,6 +251,31 @@
   <mj-class name="views-team__galery"           background-color="#ffffff"
                                                 padding="0px 10px"/>
 
+  <!-- philosophy -->
+
+  <mj-class name="views-philosophy"             background-color="#efefef"/>
+  <mj-class name="views-philosophy__column"     width="300px"
+                                                vertical-align="middle"/>
+
+  <mj-class name="views-philosophy__text"       font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="14px"
+                                                font-weight="normal"
+                                                text-align="left"
+                                                align="left"
+                                                line-height="22px"/>
+
+  <mj-class name="views-philosophy__caption"    font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="24px"
+                                                font-weight="700"
+                                                text-align="left"
+                                                align="left"
+                                                line-height="36px"/>
+
+  <mj-class name="views-philosophy__img"        width="300px"/>
+
+
   <!-- footer -->
 
 

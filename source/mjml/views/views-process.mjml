@@ -1,5 +1,17 @@
 <mj-section mj-class="views-process"
             css-class="views-process">
+    <mj-column mj-class="views-process__column"
+              css-class="views-process__column">
+
+    <mj-image mj-class="views-process__img alt-img"
+              css-class="views-process__img alt-img"
+
+              src="{{{views-process__img.src}}}"
+              href="{{{views-process__img.href}}}"
+              title="{{{views-process__img.title}}}"
+              alt="{{{views-process__img.alt}}}" />
+
+  </mj-column>
 
   <mj-column mj-class="views-process__column"
               css-class="views-process__column">
@@ -20,17 +32,5 @@
   </mj-column>
 
 
-    <mj-column mj-class="views-process__column"
-              css-class="views-process__column">
-
-    <mj-image mj-class="views-process__img alt-img"
-              css-class="views-process__img alt-img"
-
-              src="{{{views-process__img.src}}}"
-              href="{{{views-process__img.href}}}"
-              title="{{{views-process__img.title}}}"
-              alt="{{{views-process__img.alt}}}" />
-
-  </mj-column>
 
 </mj-section>

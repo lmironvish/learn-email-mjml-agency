@@ -43,6 +43,8 @@
 
       <mj-include path="views/views-team.mjml" />
 
+      <mj-include path="views/views-philosophy.mjml" />
+
   </mj-wrapper>
 
 
