@@ -140,6 +140,20 @@
     "alt": "box image"
   },
 
+  "views-review__img-quotes": {
+    "src": "https://i.postimg.cc/kgnHckt3/img-agency-quotes.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
+  "views-review__img-div": {
+    "src": "https://i.postimg.cc/5NwcpB7v/img-agency-divider.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",

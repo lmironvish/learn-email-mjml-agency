@@ -304,6 +304,49 @@
                                                 align="center"
                                                 text-transform="uppercase"
                                                 padding="10px"/>
+
+  <!-- review -->
+
+  <mj-class name="views-review"                 background-color="#ffffff"
+                                                padding-top="18px"
+                                                padding-right="20px"
+                                                padding-left="20px"
+                                                vertical-align="middle"/>
+
+  <mj-class name="views-review__caption"        font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="30px"
+                                                font-weight="700"
+                                                line-height="46px"
+                                                text-align="center"
+                                                align="center"
+                                                text-transform="uppercase"
+                                                padding="10px 20px"
+                                                padding-bottom="0px"/>
+
+  <mj-class name="views-review__img"            padding-left="20px"
+                                                padding-right="20px"/>
+
+  <mj-class name="views-review__text"           font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="16px"
+                                                font-style="italic"
+                                                font-weight="400"
+                                                line-height="24px"
+                                                text-align="center"
+                                                align="center"
+                                                padding="10px 20px"/>
+
+  <mj-class name="views-review__author"         font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="16px"
+                                                font-style="italic"
+                                                font-weight="400"
+                                                line-height="24px"
+                                                text-align="center"
+                                                align="center"
+                                                padding="10px 20px"/>
+
   <!-- footer -->
 
 

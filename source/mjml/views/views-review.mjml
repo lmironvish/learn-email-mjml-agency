@@ -1,0 +1,62 @@
+<mj-section mj-class="views-review"
+             css-class="views-review">
+
+  <mj-column mj-class="views-review__column"
+             css-class="views-review__column">
+
+    <mj-text mj-class="views-review__caption"
+             css-class="views-review__caption">
+        STUFF PEOPLE SAY
+    </mj-text>
+
+    <mj-image mj-class="views-review__img alt-img"
+              css-class="views-review__img alt-img"
+
+              src="{{{views-review__img-quotes.src}}}"
+              href="{{{views-review__img-quotes.href}}}"
+              title="{{{views-review__img-quotes.title}}}"
+              alt="{{{views-review__img-quotes.alt}}}" />
+
+    <mj-text mj-class="views-review__text"
+             css-class="views-review__text">
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </mj-text>
+
+    <mj-text mj-class="views-review__author"
+             css-class="views-review__author">
+                — Andy Hug
+    </mj-text>
+
+    <mj-text mj-class="views-review__caption"
+             css-class="views-review__caption">
+
+    </mj-text>
+
+    <mj-image mj-class="views-review__img alt-img"
+              css-class="views-review__img alt-img"
+
+              src="{{{views-review__img-quotes.src}}}"
+              href="{{{views-review__img-quotes.href}}}"
+              title="{{{views-review__img-quotes.title}}}"
+              alt="{{{views-review__img-quotes.alt}}}" />
+
+    <mj-text mj-class="views-review__text"
+             css-class="views-review__text">
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </mj-text>
+
+    <mj-text mj-class="views-review__author"
+             css-class="views-review__author">
+                — Mike Bernardo
+    </mj-text>
+
+    <mj-image mj-class="views-review__img alt-img"
+              css-class="views-review__img alt-img"
+
+              src="{{{views-review__img-div.src}}}"
+              href="{{{views-review__img-div.href}}}"
+              title="{{{views-review__img-div.title}}}"
+              alt="{{{views-review__img-div.alt}}}" />
+
+  </mj-column>
+</mj-section>
