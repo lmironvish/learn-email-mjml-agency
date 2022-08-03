@@ -349,6 +349,9 @@
 
   <!-- description -->
 
+  <mj-class name="views-description"                   background-color="#ffffff"
+                                                       padding="10px 0px"/>
+
   <mj-class name="views-description__column-left"      background-color="#f7e110"/>
 
   <mj-class name="views-description__column-right"     background-color="#a1a1a1"/>
@@ -385,6 +388,31 @@
                                                        padding="10px"
                                                        padding-bottom="40px"/>
 
+  <!-- screens -->
+
+  <mj-class name="views-screens"             background-color="#ffffff"
+                                             padding-bottom="16px"
+                                             padding-top="10px"/>
+
+  <mj-class name="views-screens__caption"    font-family="Lato, Tahoma, Veranda, sans-serif"
+                                             color="#555555"
+                                             font-size="24px"
+                                             font-weight="700"
+                                             line-height="36px"
+                                             text-align="center"
+                                             padding-top="10px"
+                                             padding-left="10px"
+                                             padding-bottom="20px"
+                                             padding-right="10px"/>
+
+  <mj-class name="views-screens__text"       font-family="Lato, Tahoma, Veranda, sans-serif"
+                                             color="#555555"
+                                             font-size="14px"
+                                             line-height="22px"
+                                             text-align="center"
+                                             padding="10px 20px"/>
+
+  <mj-class name="views-screens__img"        padding="10px 20px"/>
 
   <!-- footer -->
 

@@ -51,6 +51,8 @@
 
       <mj-include path="views/views-description.mjml" />
 
+      <mj-include path="views/views-screens.mjml" />
+
   </mj-wrapper>
 
 

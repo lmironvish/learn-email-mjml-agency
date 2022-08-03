@@ -1,0 +1,27 @@
+<mj-section mj-class="views-screens"
+            css-class="views-screens">
+
+
+  <mj-column mj-class="views-screens__column"
+              css-class="views-screens__column">
+
+    <mj-text mj-class="views-screens__caption"
+             css-class="views-screens__caption">
+                  We are a creative Agency.
+    </mj-text>
+    <mj-text mj-class="views-screens__text"
+             css-class="views-screens__text">
+                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </mj-text>
+
+    <mj-image mj-class="views-screens__img alt-img"
+              css-class="views-screens__img alt-img"
+
+              src="{{{views-screens__img.src}}}"
+              href="{{{views-screens__img.href}}}"
+              title="{{{views-screens__img.title}}}"
+              alt="{{{views-screens__img.alt}}}" />
+
+  </mj-column>
+
+</mj-section>
