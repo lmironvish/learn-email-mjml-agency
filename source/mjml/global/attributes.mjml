@@ -213,20 +213,27 @@
 
   <!-- components -->
 
-  <mj-class name="views-competences"         background-color="#f7e110"
-                                             padding="25px 10px"
-                                             vertical-align="middle"/>
+  <mj-class name="views-competences"            background-color="#f7e110"
+                                                padding="25px 10px"
+                                                vertical-align="middle"/>
 
-  <mj-class name="views-competences__img"    width="96px"
-                                             padding="10px"/>
+  <mj-class name="views-competences__img"       width="96px"
+                                                padding="10px"/>
 
   <mj-class name="views-competences__caption"   font-family="Lato, Tahoma, Veranda, sans-serif"
                                                 color="#ffffff"
                                                 font-size="12px"
                                                 font-weight="700"
+                                                line-height="22px"
                                                 text-align="center"
                                                 align="center"
                                                 text-transform="uppercase"/>
+
+  <!-- team -->
+
+  <mj-class name="views-team"                   />
+
+
   <!-- footer -->
 
 

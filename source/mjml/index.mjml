@@ -41,6 +41,8 @@
 
       <mj-include path="views/views-competences.mjml" />
 
+      <mj-include path="views/views-team.mjml" />
+
   </mj-wrapper>
 
 

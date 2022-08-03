@@ -1,0 +1,93 @@
+<mj-section mj-class="views-team"
+            css-class="views-team">
+
+
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-girl-1.src}}}"
+      href="{{{views-team__img-girl-1.href}}}"
+      title="{{{views-team__img-girl-1.title}}}"
+      alt="{{{views-team__img-girl-1.alt}}}" />
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-boy-1.src}}}"
+      href="{{{views-team__img-boy-1.href}}}"
+      title="{{{views-team__img-boy-1.title}}}"
+      alt="{{{views-team__img-boy-1.alt}}}" />
+
+
+    </mj-column >
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-girl-2.src}}}"
+      href="{{{views-team__img-girl-2.href}}}"
+      title="{{{views-team__img-girl-2.title}}}"
+      alt="{{{views-team__img-girl-2.alt}}}" />
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-boy-2.src}}}"
+      href="{{{views-team__img-boy-2.href}}}"
+      title="{{{views-team__img-boy-2.title}}}"
+      alt="{{{views-team__img-boy-2.alt}}}" />
+
+
+    </mj-column >
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-girl-1.src}}}"
+      href="{{{views-team__img-girl-1.href}}}"
+      title="{{{views-team__img-girl-1.title}}}"
+      alt="{{{views-team__img-girl-1.alt}}}" />
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-boy-1.src}}}"
+      href="{{{views-team__img-boy-1.href}}}"
+      title="{{{views-team__img-boy-1.title}}}"
+      alt="{{{views-team__img-boy-1.alt}}}" />
+
+
+
+
+    </mj-column >
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-girl-2.src}}}"
+      href="{{{views-team__img-girl-2.href}}}"
+      title="{{{views-team__img-girl-2.title}}}"
+      alt="{{{views-team__img-girl-2.alt}}}" />
+
+      <mj-image mj-class="views-team__img alt-img"
+      css-class="views-team__img alt-img"
+
+      src="{{{views-team__img-boy-2.src}}}"
+      href="{{{views-team__img-boy-2.href}}}"
+      title="{{{views-team__img-boy-2.title}}}"
+      alt="{{{views-team__img-boy-2.alt}}}" />
+
+
+
+    </mj-column >
+
+</mj-section>
