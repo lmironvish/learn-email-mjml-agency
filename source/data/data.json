@@ -72,6 +72,30 @@
     "title": "box image",
     "alt": "box image"
   },
+  "views-team__img-boy-1": {
+    "src": "https://i.postimg.cc/Dz0MVLgx/img-agency-team2.jpg",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+  "views-team__img-girl-1": {
+    "src": "https://i.postimg.cc/qvj5Zj8t/img-agency-team1.jpg",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+  "views-team__img-girl-2": {
+    "src": "https://i.postimg.cc/k4tYGCL8/img-agency-team3.jpg",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+  "views-team__img-boy-2": {
+    "src": "https://i.postimg.cc/jqPkrsHY/img-agency-team4.jpg",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
 
   "button--1": {
     "src": "",

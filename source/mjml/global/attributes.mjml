@@ -231,8 +231,25 @@
 
   <!-- team -->
 
-  <mj-class name="views-team"                   />
+  <mj-class name="views-team"                   background-color="#ffffff"/>
 
+  <mj-class name="views-team__caption"          font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="30px"
+                                                font-weight="700"
+                                                line-height="46px"
+                                                text-align="center"
+                                                align="center"
+                                                text-transform="uppercase"
+                                                padding="10px 20px"/>
+
+  <mj-class name="views-team__column-text"      padding-top="18px"
+                                                padding-bottom="10px"/>
+
+  <mj-class name="views-team__img"              padding="10px"/>
+
+  <mj-class name="views-team__galery"           background-color="#ffffff"
+                                                padding="0px 10px"/>
 
   <!-- footer -->
 
