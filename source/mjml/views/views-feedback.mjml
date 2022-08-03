@@ -17,11 +17,16 @@
 
       <mj-text mj-class="views-feedback__caption"
               css-class="views-feedback__caption">
+        <span>55K +</span>
+      </mj-text>
+
+      <mj-text mj-class="views-feedback__text"
+              css-class="views-feedback__text">
         <span>likes</span>
       </mj-text>
 
+    </mj-column>
 
-    </mj-column >
     <mj-column mj-class="views-feedback__column"
                 css-class="views-feedback__column">
 
@@ -35,12 +40,16 @@
 
       <mj-text mj-class="views-feedback__caption"
               css-class="views-feedback__caption">
+        <span>999 +</span>
+      </mj-text>
+
+      <mj-text mj-class="views-feedback__text"
+              css-class="views-feedback__text">
         <span>comments</span>
       </mj-text>
 
-
-
     </mj-column >
+
     <mj-column mj-class="views-feedback__column"
                 css-class="views-feedback__column">
 
@@ -54,12 +63,16 @@
 
       <mj-text mj-class="views-feedback__caption"
               css-class="views-feedback__caption">
+        <span>66 +</span>
+      </mj-text>
+
+      <mj-text mj-class="views-feedback__text"
+              css-class="views-feedback__text">
         <span>awards</span>
       </mj-text>
 
-
-
     </mj-column >
+
     <mj-column mj-class="views-feedback__column"
                 css-class="views-feedback__column">
 
@@ -73,6 +86,11 @@
 
       <mj-text mj-class="views-feedback__caption"
               css-class="views-feedback__caption">
+        <span>33K +</span>
+      </mj-text>
+
+      <mj-text mj-class="views-feedback__text"
+              css-class="views-feedback__text">
         <span>coffee</span>
       </mj-text>
 

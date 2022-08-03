@@ -45,6 +45,8 @@
 
       <mj-include path="views/views-philosophy.mjml" />
 
+      <mj-include path="views/views-feedback.mjml" />
+
   </mj-wrapper>
 
 

@@ -211,7 +211,7 @@
 
   <mj-class name="views-process__img"        width="300px"/>
 
-  <!-- components -->
+  <!-- competences -->
 
   <mj-class name="views-competences"            background-color="#f7e110"
                                                 padding="25px 10px"
@@ -254,6 +254,7 @@
   <!-- philosophy -->
 
   <mj-class name="views-philosophy"             background-color="#efefef"/>
+
   <mj-class name="views-philosophy__column"     width="300px"
                                                 vertical-align="middle"/>
 
@@ -275,7 +276,34 @@
 
   <mj-class name="views-philosophy__img"        width="300px"/>
 
+  <!-- feedback -->
 
+  <mj-class name="views-feedback"               background-color="#f7e110"
+                                                padding="25px 10px"
+                                                vertical-align="middle"/>
+
+  <mj-class name="views-feedback__img"          width="96px"
+                                                padding="10px"/>
+
+  <mj-class name="views-feedback__caption"      font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#ffffff"
+                                                font-size="22px"
+                                                font-weight="700"
+                                                line-height="34px"
+                                                text-align="center"
+                                                align="center"
+                                                text-transform="uppercase"
+                                                padding="10px"/>
+
+  <mj-class name="views-feedback__text"         font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#ffffff"
+                                                font-size="12px"
+                                                font-weight="700"
+                                                line-height="22px"
+                                                text-align="center"
+                                                align="center"
+                                                text-transform="uppercase"
+                                                padding="10px"/>
   <!-- footer -->
 
 
