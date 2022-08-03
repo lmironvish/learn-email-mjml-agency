@@ -1,0 +1,85 @@
+<mj-section mj-class="views-feedback"
+            css-class="views-feedback">
+
+  <mj-group mj-class="views-feedback__group"
+                css-class="views-feedback__group">
+
+    <mj-column mj-class="views-feedback__column"
+                css-class="views-feedback__column">
+
+      <mj-image mj-class="views-feedback__img alt-img"
+      css-class="views-feedback__img alt-img"
+
+      src="{{{views-feedback__img-likes.src}}}"
+      href="{{{views-feedback__img-likes.href}}}"
+      title="{{{views-feedback__img-likes.title}}}"
+      alt="{{{views-feedback__img-likes.alt}}}" />
+
+      <mj-text mj-class="views-feedback__caption"
+              css-class="views-feedback__caption">
+        <span>likes</span>
+      </mj-text>
+
+
+    </mj-column >
+    <mj-column mj-class="views-feedback__column"
+                css-class="views-feedback__column">
+
+                <mj-image mj-class="views-feedback__img alt-img"
+                css-class="views-feedback__img alt-img"
+
+                src="{{{views-feedback__img-comments.src}}}"
+                href="{{{views-feedback__img-comments.href}}}"
+                title="{{{views-feedback__img-comments.title}}}"
+                alt="{{{views-feedback__img-comments.alt}}}" />
+
+      <mj-text mj-class="views-feedback__caption"
+              css-class="views-feedback__caption">
+        <span>comments</span>
+      </mj-text>
+
+
+
+    </mj-column >
+    <mj-column mj-class="views-feedback__column"
+                css-class="views-feedback__column">
+
+                <mj-image mj-class="views-feedback__img alt-img"
+                css-class="views-feedback__img alt-img"
+
+                src="{{{views-feedback__img-awards.src}}}"
+                href="{{{views-feedback__img-awards.href}}}"
+                title="{{{views-feedback__img-awards.title}}}"
+                alt="{{{views-feedback__img-awards.alt}}}" />
+
+      <mj-text mj-class="views-feedback__caption"
+              css-class="views-feedback__caption">
+        <span>awards</span>
+      </mj-text>
+
+
+
+    </mj-column >
+    <mj-column mj-class="views-feedback__column"
+                css-class="views-feedback__column">
+
+                <mj-image mj-class="views-feedback__img alt-img"
+                css-class="views-feedback__img alt-img"
+
+                src="{{{views-feedback__img-coffee.src}}}"
+                href="{{{views-feedback__img-coffee.href}}}"
+                title="{{{views-feedback__img-coffee.title}}}"
+                alt="{{{views-feedback__img-coffee.alt}}}" />
+
+      <mj-text mj-class="views-feedback__caption"
+              css-class="views-feedback__caption">
+        <span>coffee</span>
+      </mj-text>
+
+
+
+    </mj-column >
+
+  </mj-group>
+
+</mj-section>
