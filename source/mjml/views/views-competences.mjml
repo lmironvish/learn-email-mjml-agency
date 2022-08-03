@@ -1,0 +1,10 @@
+<mj-section mj-class="views-competences"
+            css-class="views-competences">
+
+  <mj-column mj-class="views-competences__column"
+              css-class="views-competences__column">
+
+
+  </mj-column >
+
+</mj-section>
