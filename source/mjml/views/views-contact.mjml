@@ -6,15 +6,15 @@
 
     <mj-text mj-class="views-contact__caption"
              css-class="views-contact__caption">
-                  We&nbsp;are a&nbsp;creative Agency.
+                  We&nbsp;can&rsquo;t wait to&nbsp;hear from you!
     </mj-text>
     <mj-text mj-class="views-contact__text"
              css-class="views-contact__text">
                   Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
-    <mj-button mj-class="views-header__btn"
-              css-class="views-header__btn"
+    <mj-button mj-class="views-contact__btn"
+              css-class="views-contact__btn"
               href="#">
         Contact us
     </mj-button>
