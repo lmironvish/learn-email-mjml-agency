@@ -13,8 +13,8 @@
 
   </mj-column>
 
-  <mj-column mj-class="views-process__column"
-              css-class="views-process__column">
+  <mj-column mj-class="views-process__column media-paddings"
+              css-class="views-process__column media-paddings">
 
     <mj-text mj-class="views-process__caption"
              css-class="views-process__caption">

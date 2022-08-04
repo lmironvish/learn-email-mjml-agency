@@ -1,8 +1,8 @@
 <mj-section mj-class="views-philosophy"
             css-class="views-philosophy">
 
-  <mj-column mj-class="views-philosophy__column"
-              css-class="views-philosophy__column">
+  <mj-column mj-class="views-philosophy__column media-paddings"
+              css-class="views-philosophy__column media-paddings">
 
     <mj-text mj-class="views-philosophy__caption"
              css-class="views-philosophy__caption">

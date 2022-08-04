@@ -69,6 +69,30 @@
     max-width: 87% !important;
   }
 
+  .views-header__btn a{
+    padding: 10px 20px !important;
+  }
+  .views-advantages__btn a{
+    padding: 10px 20px !important;
+  }
+  .views-description__btn a{
+    padding: 10px 20px !important;
+  }
+  .views-contact__btn a{
+    padding: 10px 20px !important;
+  }
+
+  .views-competences__caption {
+    padding: 10px !important;
+  }
+
+  .views-feedback__caption {
+    padding: 5px !important;
+  }
+  .views-feedback__text {
+    padding: 2px !important;
+  }
+
   /* blocks */
 
 

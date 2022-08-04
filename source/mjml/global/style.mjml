@@ -15,25 +15,75 @@
   color: #f7e110 !important;
 }
 
+.views-description__btn > table > tbody > tr > td :hover,
 .views-advantages__btn > table > tbody > tr > td :hover{
   background-color: #f7e110 !important;
   color: #000000 !important;
 }
 
-.views-description__btn > table > tbody > tr > td :hover{
-  background-color: #f7e110 !important;
+.views-contact__btn > table > tbody > tr > td :hover{
   color: #000000 !important;
 }
 
 /* media */
 
 @media screen and (max-width: 479px) {
+  .views-title__column{
+    width: 50% !important;
+    max-width: 50% !important;
+  }
 
+  .views-process__img img{
+    width: 320px !important;
+    max-width: 320px !important;
+  }
 
+  .views-philosophy__img img{
+    width: 320px !important;
+    max-width: 320px !important;
+  }
+
+  .media-paddings{
+    padding-top: 26px !important;
+    padding-bottom: 35px !important;
+  }
+
+  .views-team__column{
+    width: 150px !important;
+    max-width: 150px !important;
+  }
 }
 
 @media screen and (min-width: 480px) {
+  .views-title__column{
+    width: 50% !important;
+    max-width: 50% !important;
+  }
 
+  .views-philosophy__column {
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .views-process__column {
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .views-process__img img{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .views-philosophy__img img{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .views-team__column{
+    width: 25% !important;
+    max-width: 25% !important;
+  }
 }
 
 /* black-theme rule media */

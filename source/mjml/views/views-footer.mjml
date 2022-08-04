@@ -37,7 +37,7 @@
 
             <mj-text mj-class="views-footer__copyright"
             css-class="views-footer__copyright">
-                  Made with pain by&nbsp;<a href="https://github.com/lmironvish">lmironvish</a>.
+                  Made with pain by&nbsp;<a title="author-huyauthor" href="https://github.com/lmironvish">lmironvish</a>.
             </mj-text>
 
   </mj-column >
