@@ -477,5 +477,36 @@
                                                 padding="10px 20px"/>
   <!-- footer -->
 
+  <mj-class name="views-footer__copyright"      font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#ffffff"
+                                                font-size="14px"
+                                                line-height="22px"
+                                                text-align="center"
+                                                padding="10px 20px"/>
+
+  <mj-class name="views-footer__text"           font-family="Lato, Tahoma, Veranda, sans-serif"
+                                                color="#555555"
+                                                font-size="14px"
+                                                line-height="22px"
+                                                text-align="center"
+                                                padding="10px 20px"
+                                                padding-bottom="18px"/>
+
+  <mj-class name="views-footer__img"            width="128px"
+                                                padding="10px 20px"
+                                                padding-bottom="28px"/>
+
+  <mj-class name="yellow"                       background-color="#f7e110"/>
+
+  <mj-class name="views-footer__column"         width="100%"/>
+
+  <mj-class name="views-footer__social-mail"    src="https://i.postimg.cc/5tKDjnyc/img-agency-email.png"
+                                                icon-size="32px"
+                                                title="mail"/>
+
+  <mj-class name="views-footer__social-link"    src="https://i.postimg.cc/ryr7FGLb/img-agency-link.png"
+                                                icon-size="32px"
+                                                title="link"/>
+
 
 </mj-attributes>

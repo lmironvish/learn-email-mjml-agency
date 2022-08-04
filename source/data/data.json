@@ -161,6 +161,27 @@
     "alt": "box image"
   },
 
+  "views-footer__img": {
+    "src": "https://i.postimg.cc/8cQKr3VY/img-agency-logo.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
+  "views-footer__social-mail": {
+    "src": "https://i.postimg.cc/5tKDjnyc/img-agency-email.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
+  "views-footer__social-link": {
+    "src": "https://i.postimg.cc/ryr7FGLb/img-agency-link.png",
+    "href": "#",
+    "title": "box image",
+    "alt": "box image"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",
