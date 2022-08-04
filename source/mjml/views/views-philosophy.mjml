@@ -1,7 +1,6 @@
 <mj-section mj-class="views-philosophy"
             css-class="views-philosophy">
 
-
   <mj-column mj-class="views-philosophy__column"
               css-class="views-philosophy__column">
 
@@ -11,11 +10,11 @@
     </mj-text>
     <mj-text mj-class="views-philosophy__text"
              css-class="views-philosophy__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
     <mj-text mj-class="views-philosophy__text"
              css-class="views-philosophy__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
   </mj-column>

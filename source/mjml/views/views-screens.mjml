@@ -1,17 +1,16 @@
 <mj-section mj-class="views-screens"
             css-class="views-screens">
 
-
   <mj-column mj-class="views-screens__column"
               css-class="views-screens__column">
 
     <mj-text mj-class="views-screens__caption"
              css-class="views-screens__caption">
-                  We are a creative Agency.
+                  We&nbsp;are a&nbsp;creative Agency.
     </mj-text>
     <mj-text mj-class="views-screens__text"
              css-class="views-screens__text">
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
     <mj-image mj-class="views-screens__img alt-img"

@@ -1,0 +1,24 @@
+<mj-section mj-class="views-contact"
+            css-class="views-contact">
+
+  <mj-column mj-class="views-contact__column"
+              css-class="views-contact__column">
+
+    <mj-text mj-class="views-contact__caption"
+             css-class="views-contact__caption">
+                  We&nbsp;are a&nbsp;creative Agency.
+    </mj-text>
+    <mj-text mj-class="views-contact__text"
+             css-class="views-contact__text">
+                  Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
+    </mj-text>
+
+    <mj-button mj-class="views-header__btn"
+              css-class="views-header__btn"
+              href="#">
+        Contact us
+    </mj-button>
+
+  </mj-column>
+
+</mj-section>

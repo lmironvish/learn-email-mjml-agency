@@ -27,7 +27,6 @@
       title="{{{views-team__img-girl-1.title}}}"
       alt="{{{views-team__img-girl-1.alt}}}" />
 
-
     </mj-column >
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
@@ -71,7 +70,6 @@
 <mj-section mj-class="views-team__galery pb30"
             css-class="views-team__galery pb30">
 
-
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
@@ -82,7 +80,6 @@
       href="{{{views-team__img-girl-1.href}}}"
       title="{{{views-team__img-girl-1.title}}}"
       alt="{{{views-team__img-girl-1.alt}}}" />
-
 
     </mj-column >
     <mj-column mj-class="views-team__column"

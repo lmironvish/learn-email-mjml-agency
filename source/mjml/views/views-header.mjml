@@ -13,8 +13,8 @@
 
     <mj-text mj-class="views-header__caption"
             css-class="views-header__caption">
-      <p>We work outside</p>
-      <p>of the box.</p>
+      <p>We&nbsp;work outside</p>
+      <p>of&nbsp;the box.</p>
     </mj-text>
 
     <mj-button mj-class="views-header__btn"

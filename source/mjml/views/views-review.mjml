@@ -19,12 +19,12 @@
 
     <mj-text mj-class="views-review__text"
              css-class="views-review__text">
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
     <mj-text mj-class="views-review__author"
              css-class="views-review__author">
-                — Andy Hug
+               &nbsp;&mdash; Andy Hug
     </mj-text>
 
     <mj-text mj-class="views-review__caption"
@@ -42,12 +42,12 @@
 
     <mj-text mj-class="views-review__text"
              css-class="views-review__text">
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
     <mj-text mj-class="views-review__author"
              css-class="views-review__author">
-                — Mike Bernardo
+               &nbsp;&mdash; Mike Bernardo
     </mj-text>
 
     <mj-image mj-class="views-review__img alt-img"

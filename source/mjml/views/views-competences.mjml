@@ -20,7 +20,6 @@
         <span>Web</span>
       </mj-text>
 
-
     </mj-column >
     <mj-column mj-class="views-competences__column"
                 css-class="views-competences__column">
@@ -37,8 +36,6 @@
               css-class="views-competences__caption">
         <span>Digital</span>
       </mj-text>
-
-
 
     </mj-column >
     <mj-column mj-class="views-competences__column"
@@ -57,8 +54,6 @@
         <span>Print</span>
       </mj-text>
 
-
-
     </mj-column >
     <mj-column mj-class="views-competences__column"
                 css-class="views-competences__column">
@@ -75,8 +70,6 @@
               css-class="views-competences__caption">
         <span>Social</span>
       </mj-text>
-
-
 
     </mj-column >
 

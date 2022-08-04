@@ -55,7 +55,6 @@
 
   </mj-wrapper>
 
-
   <mj-include path="views/views-footer.mjml" />
 
   </mj-body>

@@ -22,15 +22,13 @@
     </mj-text>
     <mj-text mj-class="views-process__text"
              css-class="views-process__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
     <mj-text mj-class="views-process__text"
              css-class="views-process__text">
-                  Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.
     </mj-text>
 
   </mj-column>
-
-
 
 </mj-section>
