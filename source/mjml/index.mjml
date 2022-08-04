@@ -55,6 +55,8 @@
 
       <mj-include path="views/views-contact.mjml" />
 
+      <mj-include path="views/views-dignity.mjml" />
+
   </mj-wrapper>
 
   <mj-include path="views/views-footer.mjml" />
