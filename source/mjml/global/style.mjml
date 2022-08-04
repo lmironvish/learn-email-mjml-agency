@@ -48,10 +48,10 @@
     padding-bottom: 35px !important;
   }
 
-  .views-team__column{
+  /* .views-team__column{
     width: 150px !important;
     max-width: 150px !important;
-  }
+  } */
 }
 
 @media screen and (min-width: 480px) {

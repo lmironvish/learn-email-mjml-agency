@@ -240,6 +240,8 @@
 
   <mj-class name="views-team"                   background-color="#ffffff"/>
 
+  <!-- <mj-class name="views-team__column"           width="100%"/> -->
+
   <mj-class name="views-team__caption"          font-family="Lato, Tahoma, Veranda, sans-serif"
                                                 color="#555555"
                                                 font-size="30px"
@@ -503,7 +505,7 @@
                                                 padding="10px 20px"
                                                 padding-bottom="28px"/>
 
-  <mj-class name="yellow"                       background-color="#f7e110"/>
+  <mj-class name="col-yellow"                   background-color="#f7e110"/>
 
   <mj-class name="views-footer__column"         width="100%"/>
 

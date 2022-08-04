@@ -28,8 +28,6 @@
       alt="{{{views-team__img-girl-1.alt}}}" />
 
     </mj-column >
-    <mj-column mj-class="views-team__column"
-                css-class="views-team__column">
 
       <mj-image mj-class="views-team__img alt-img"
       css-class="views-team__img alt-img"
@@ -38,6 +36,8 @@
       href="{{{views-team__img-boy-1.href}}}"
       title="{{{views-team__img-boy-1.title}}}"
       alt="{{{views-team__img-boy-1.alt}}}" />
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
 
     </mj-column >
     <mj-column mj-class="views-team__column"

@@ -93,6 +93,28 @@
     padding: 2px !important;
   }
 
+  .views-feedback {
+    background-color: #f7e110;
+  }
+
+  .views-competences {
+    background-color: #f7e110;
+  }
+  .views-header__btn {
+    background-color: #f7e110;
+  }
+  .views-description__column-left {
+    background-color: #f7e110;
+  }
+  .views-contact__btn {
+    background-color: #f7e110;
+  }
+  .col-yellow {
+    background-color: #f7e110;
+  }
+
+
+
   /* blocks */
 
 
