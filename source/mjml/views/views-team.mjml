@@ -1,21 +1,24 @@
-<mj-section mj-class="views-team"
-            css-class="views-team">
+<mj-section mj-class="views-team pb0"
+            css-class="views-team pb0">
 
-<mj-column mj-class="views-team__column-text"
-            css-class="views-team__column-text">
+    <mj-column mj-class="views-team__column-text"
+                css-class="views-team__column-text">
 
-    <mj-text mj-class="views-team__caption"
-            css-class="views-team__caption">
-          OUR TEAM
-    </mj-text>
+        <mj-text mj-class="views-team__caption"
+                css-class="views-team__caption">
+              OUR TEAM
+        </mj-text>
 
-</mj-column>
+    </mj-column>
 
 </mj-section>
 
 <mj-section mj-class="views-team__galery"
             css-class="views-team__galery">
 
+  <mj-group mj-class="views-team__group"
+              css-class="views-team__group">
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
@@ -29,6 +32,9 @@
 
     </mj-column >
 
+    <mj-column mj-class="views-team__column"
+                css-class="views-team__column">
+
       <mj-image mj-class="views-team__img alt-img"
       css-class="views-team__img alt-img"
 
@@ -36,27 +42,33 @@
       href="{{{views-team__img-boy-1.href}}}"
       title="{{{views-team__img-boy-1.title}}}"
       alt="{{{views-team__img-boy-1.alt}}}" />
-    <mj-column mj-class="views-team__column"
-                css-class="views-team__column">
 
     </mj-column >
+
+  </mj-group>
+
+  <mj-group mj-class="views-team__group"
+            css-class="views-team__group">
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
       <mj-image mj-class="views-team__img alt-img"
-      css-class="views-team__img alt-img"
+                css-class="views-team__img alt-img"
 
       src="{{{views-team__img-girl-2.src}}}"
       href="{{{views-team__img-girl-2.href}}}"
       title="{{{views-team__img-girl-2.title}}}"
       alt="{{{views-team__img-girl-2.alt}}}" />
 
+
     </mj-column >
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
       <mj-image mj-class="views-team__img alt-img"
-      css-class="views-team__img alt-img"
+                css-class="views-team__img alt-img"
 
       src="{{{views-team__img-boy-2.src}}}"
       href="{{{views-team__img-boy-2.href}}}"
@@ -64,12 +76,18 @@
       alt="{{{views-team__img-boy-2.alt}}}" />
 
     </mj-column >
+
+  </mj-group>
 
 </mj-section>
 
 <mj-section mj-class="views-team__galery pb30"
             css-class="views-team__galery pb30">
 
+
+  <mj-group mj-class="views-team__group"
+              css-class="views-team__group">
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
@@ -82,6 +100,7 @@
       alt="{{{views-team__img-girl-1.alt}}}" />
 
     </mj-column >
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
@@ -94,6 +113,10 @@
       alt="{{{views-team__img-boy-1.alt}}}" />
 
     </mj-column >
+  </mj-group>
+
+  <mj-group mj-class="views-team__group"
+            css-class="views-team__group">
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
 
@@ -104,11 +127,10 @@
       href="{{{views-team__img-girl-2.href}}}"
       title="{{{views-team__img-girl-2.title}}}"
       alt="{{{views-team__img-girl-2.alt}}}" />
-
     </mj-column >
+
     <mj-column mj-class="views-team__column"
                 css-class="views-team__column">
-
       <mj-image mj-class="views-team__img alt-img"
       css-class="views-team__img alt-img"
 
@@ -118,5 +140,7 @@
       alt="{{{views-team__img-boy-2.alt}}}" />
 
     </mj-column >
+
+  </mj-group>
 
 </mj-section>

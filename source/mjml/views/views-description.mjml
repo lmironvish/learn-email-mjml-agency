@@ -8,7 +8,7 @@
             <mj-accordion-element>
             <mj-accordion-title mj-class="views-description__accord-title"
                                css-class="views-description__accord-title">
-                              <span>Happy Clients</span>
+                              <p>Happy Clients</p>
             </mj-accordion-title>
             <mj-accordion-text mj-class="views-description__accord-text"
                                css-class="views-description__accord-text">
@@ -34,7 +34,7 @@
             <mj-accordion-element>
               <mj-accordion-title mj-class="views-description__accord-title"
                                 css-class="views-description__accord-title">
-                                <span>Proven Results</span>
+                                <p>Proven Results</p>
               </mj-accordion-title>
               <mj-accordion-text mj-class="views-description__accord-text"
                                  css-class="views-description__accord-text">

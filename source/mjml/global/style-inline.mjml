@@ -94,24 +94,31 @@
   }
 
   .views-feedback {
-    background-color: #f7e110;
+    background-color: #f7e110 !important;
   }
 
   .views-competences {
-    background-color: #f7e110;
+    background-color: #f7e110 !important;
   }
-  .views-header__btn {
-    background-color: #f7e110;
+  .views-header__btn a{
+    background-color: #f7e110 !important;
   }
   .views-description__column-left {
-    background-color: #f7e110;
+    background-color: #f7e110 !important;
   }
-  .views-contact__btn {
-    background-color: #f7e110;
+  .views-contact__btn a {
+    background-color: #f7e110 !important;
   }
   .col-yellow {
-    background-color: #f7e110;
+    background-color: #f7e110 !important;
   }
+
+  .views-team__img img{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+
 
 
 

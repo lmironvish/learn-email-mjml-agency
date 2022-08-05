@@ -48,10 +48,12 @@
     padding-bottom: 35px !important;
   }
 
-  /* .views-team__column{
-    width: 150px !important;
-    max-width: 150px !important;
-  } */
+  .views-team__group{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+
 }
 
 @media screen and (min-width: 480px) {
@@ -79,11 +81,11 @@
     width: 100% !important;
     max-width: 100% !important;
   }
-
-  .views-team__column{
-    width: 25% !important;
-    max-width: 25% !important;
+  .views-team__group{
+    width: 50% !important;
+    max-width: 50% !important;
   }
+
 }
 
 /* black-theme rule media */
