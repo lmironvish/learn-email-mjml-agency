@@ -304,7 +304,7 @@
                                                 text-align="center"
                                                 align="center"
                                                 text-transform="uppercase"
-                                                padding="10px"/>
+                                                padding="5px"/>
 
   <mj-class name="views-feedback__text"         font-family="Lato, Tahoma, Veranda, sans-serif"
                                                 color="#ffffff"
@@ -314,7 +314,7 @@
                                                 text-align="center"
                                                 align="center"
                                                 text-transform="uppercase"
-                                                padding="10px"/>
+                                                padding="2px"/>
 
   <!-- review -->
 
@@ -367,10 +367,10 @@
 
   <mj-class name="views-description__column-right"     background-color="#a1a1a1"/>
 
-  <mj-class name="views-description__accord"           padding-top="20px"
+  <mj-class name="views-description__accord"           padding-top="36px"
                                                        padding-right="10px"
                                                        padding-left="10px"
-                                                       padding-bottom="4px"
+                                                       padding-bottom="20px"
                                                        border="0px"
                                                        icon-width="20px"
                                                        icon-padding="0px"/>

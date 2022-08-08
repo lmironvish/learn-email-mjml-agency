@@ -93,6 +93,27 @@
     padding: 2px !important;
   }
 
+  .views-title__column{
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .views-process__img img{
+    width: 320px !important;
+    max-width: 320px !important;
+  }
+
+  .views-philosophy__img img{
+    width: 320px !important;
+    max-width: 320px !important;
+  }
+
+  .mj-accordion-ico{
+    padding: 0px !important;
+  }
+
+
+
   .views-feedback {
     background-color: #f7e110 !important;
   }

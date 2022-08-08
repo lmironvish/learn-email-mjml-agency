@@ -53,6 +53,11 @@
     max-width: 100% !important;
   }
 
+  .views-team__img img{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
 
 }
 
@@ -85,6 +90,13 @@
     width: 50% !important;
     max-width: 50% !important;
   }
+
+
+  .views-team__img img{
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
 
 }
 
