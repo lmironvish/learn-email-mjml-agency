@@ -216,7 +216,8 @@
                                              align="left"
                                              line-height="36px"/>
 
-  <mj-class name="views-process__img"        width="300px"/>
+  <mj-class name="views-process__img"        width="300px"
+                                             fluid-on-mobile="true"/>
 
   <!-- competences -->
 
@@ -257,7 +258,9 @@
   <mj-class name="views-team__column-text"      padding-top="18px"
                                                 padding-bottom="10px"/>
 
-  <mj-class name="views-team__img"              padding="10px"/>
+  <mj-class name="views-team__img"              align="center"
+                                                padding="10px"
+                                                fluid-on-mobile="true"/>
 
   <mj-class name="views-team__galery"           background-color="#ffffff"
                                                 padding="0px 10px"/>
@@ -285,7 +288,8 @@
                                                 align="left"
                                                 line-height="36px"/>
 
-  <mj-class name="views-philosophy__img"        width="300px"/>
+  <mj-class name="views-philosophy__img"        width="300px"
+                                                fluid-on-mobile="true"/>
 
   <!-- feedback -->
 
@@ -425,7 +429,8 @@
                                              text-align="center"
                                              padding="10px 20px"/>
 
-  <mj-class name="views-screens__img"        padding="10px 20px"/>
+  <mj-class name="views-screens__img"        padding="10px 20px"
+                                             fluid-on-mobile="true"/>
 
   <!-- contact -->
 

@@ -98,16 +98,6 @@
     max-width: 50% !important;
   }
 
-  .views-process__img img{
-    width: 320px !important;
-    max-width: 320px !important;
-  }
-
-  .views-philosophy__img img{
-    width: 320px !important;
-    max-width: 320px !important;
-  }
-
   .mj-accordion-ico{
     padding: 0px !important;
   }
@@ -133,12 +123,6 @@
   .col-yellow {
     background-color: #f7e110 !important;
   }
-
-  .views-team__img img{
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-
 
 
 

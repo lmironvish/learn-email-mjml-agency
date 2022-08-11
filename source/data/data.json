@@ -17,185 +17,168 @@
   "views-header__img": {
     "src": "https://i.postimg.cc/pdmqcxW7/img-agency-outsidebox.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "awards",
+    "alt": "awards"
   },
 
   "views-advantages__img-first": {
     "src": "https://i.postimg.cc/W1jBydCy/img-agency-adv-innovative.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "innovate image",
+    "alt": "innovate image"
   },
 
   "views-advantages__img-second": {
     "src": "https://i.postimg.cc/N0jWgWg7/img-agency-adv-creative.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "creative image",
+    "alt": "creative image"
   },
 
   "views-advantages__img-third": {
     "src": "https://i.postimg.cc/WzgyWVnj/img-agency-adv-strategic.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "strategic image",
+    "alt": "strategic image"
   },
 
   "views-process__img": {
     "src": "https://i.postimg.cc/5tDpZGjt/img-agency-vignette.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "process image",
+    "alt": "process image"
   },
 
   "views-competences__img-web": {
     "src": "https://i.postimg.cc/ZKPg6Tnx/img-agency-adv-web.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "web image",
+    "alt": "web image"
   },
 
   "views-competences__img-digital": {
     "src": "https://i.postimg.cc/x1RwV0S1/img-agency-adv-digital.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "digital image",
+    "alt": "digital image"
   },
 
   "views-competences__img-print": {
     "src": "https://i.postimg.cc/26PJ7yn2/img-agency-adv-print.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "print image",
+    "alt": "print image"
   },
 
   "views-competences__img-social": {
     "src": "https://i.postimg.cc/rmd34xRD/img-agency-adv-social.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "social image",
+    "alt": "social image"
   },
 
   "views-team__img-boy-1": {
     "src": "https://i.postimg.cc/Dz0MVLgx/img-agency-team2.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "first man",
+    "alt": "first man"
   },
 
   "views-team__img-girl-1": {
     "src": "https://i.postimg.cc/qvj5Zj8t/img-agency-team1.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "first woman",
+    "alt": "first woman"
   },
 
   "views-team__img-girl-2": {
     "src": "https://i.postimg.cc/k4tYGCL8/img-agency-team3.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "second woman",
+    "alt": "second woman"
   },
 
   "views-team__img-boy-2": {
     "src": "https://i.postimg.cc/jqPkrsHY/img-agency-team4.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "second man",
+    "alt": "second man"
   },
 
   "views-philosophy__img": {
     "src": "https://i.postimg.cc/8Pw41ss9/img-agency-vignette2.jpg",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "philosophy image",
+    "alt": "philosophy image"
   },
 
   "views-feedback__img-likes": {
     "src": "https://i.postimg.cc/dQZcZPG5/img-agency-adv-likes.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "likes",
+    "alt": "likes"
   },
 
   "views-feedback__img-comments": {
     "src": "https://i.postimg.cc/bNXcQCTp/img-agency-adv-comments.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "comments",
+    "alt": "comments"
   },
 
   "views-feedback__img-awards": {
     "src": "https://i.postimg.cc/qRSfDjHc/img-agency-adv-awards.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "awards",
+    "alt": "awards"
   },
 
   "views-feedback__img-coffee": {
     "src": "https://i.postimg.cc/Y0W55Yt5/img-agency-adv-coffees.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "coffee",
+    "alt": "coffee"
   },
 
   "views-review__img-quotes": {
     "src": "https://i.postimg.cc/kgnHckt3/img-agency-quotes.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "quotes",
+    "alt": "quotes"
   },
 
   "views-review__img-div": {
     "src": "https://i.postimg.cc/5NwcpB7v/img-agency-divider.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "divider",
+    "alt": "divider"
   },
 
   "views-screens__img": {
     "src": "https://i.postimg.cc/8CYnTcXN/img-agency-screens.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "screens",
+    "alt": "screens"
   },
 
   "views-footer__img": {
     "src": "https://i.postimg.cc/8cQKr3VY/img-agency-logo.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "logo",
+    "alt": "logo"
   },
 
   "views-footer__social-mail": {
     "src": "https://i.postimg.cc/5tKDjnyc/img-agency-email.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
+    "title": "mail",
+    "alt": "mail"
   },
 
   "views-footer__social-link": {
     "src": "https://i.postimg.cc/ryr7FGLb/img-agency-link.png",
     "href": "#",
-    "title": "box image",
-    "alt": "box image"
-  },
-
-  "button--1": {
-    "src": "",
-    "href": "https://www.google.com/",
-    "title": "text",
-    "bgcolor": "#838383"
-  },
-
-  "views-footer-link-1": {
-    "href": "https://www.google.com/",
-    "title": "text"
-  },
-
-  "views-unsubscribe": {
-    "href": "{{ unsubscribe_link }}",
-    "title": "text"
+    "title": "link",
+    "alt": "link"
   }
 }
